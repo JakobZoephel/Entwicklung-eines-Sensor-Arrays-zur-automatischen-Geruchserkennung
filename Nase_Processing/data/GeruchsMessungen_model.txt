@@ -1,0 +1,6 @@
+GeruchsMessungen
+50:sigmoid
+40:sigmoid
+30:relu
+8 sigmoid
+MSE
